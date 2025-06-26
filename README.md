@@ -1,0 +1,1 @@
+Basic Attempt to try and graph a Multiple Regression Model using Matplotlib, Ax, and Pandas. The data is based on a dataset of multiple startups Administration costs and Research and Development (R&D) Costs in correlation with the amount of profit the company generated.
